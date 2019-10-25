@@ -18,8 +18,6 @@ mixer.music.play(-1)
 
 # Title and Icon
 pygame.display.set_caption("Space Invaders")
-icon = pygame.image.load('ufo.png')
-pygame.display.set_icon(icon)
 
 # Player
 player_image = pygame.image.load('spaceship.png')
